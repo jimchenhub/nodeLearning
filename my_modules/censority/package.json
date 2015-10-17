@@ -1,0 +1,11 @@
+{
+    "name" : "censority",
+    "author" : "jim chen",
+    "version" : "0.0.1",
+    "description" : "censors word out of text",
+    "main" : "censortext",
+    "dependencies" : {},
+    "engines" : {
+        "node" : "*"
+    }
+}
